@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UMS</string>
+    <string name="password">password</string>
+    <string name="title_activity_user__detail">User_Detail</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
